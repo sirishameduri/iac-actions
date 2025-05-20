@@ -79,7 +79,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./Ekscluster-githubactions
+        working-directory: ./github-demo
 
     steps:
       - name: Checkout source code
