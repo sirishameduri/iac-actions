@@ -5,7 +5,7 @@ on:
     branches:
       - iac-actions
     paths:  
-      - Ekscluster-githubactions/**
+      - github-demo/**
   workflow_dispatch:
 
 env:
